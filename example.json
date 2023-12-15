@@ -1,0 +1,82 @@
+{
+  "numberOfVertices": 11,
+  "vertices": [
+    {
+      "index": 0,
+      "x": 1585,
+      "y": 2898
+    },
+    {
+      "index": 1,
+      "x": 4338,
+      "y": 4269
+    },
+    {
+      "index": 2,
+      "x": 3552,
+      "y": 3427
+    },
+    {
+      "index": 3,
+      "x": 194,
+      "y": 1370
+    },
+    {
+      "index": 4,
+      "x": 4088,
+      "y": 4285
+    },
+    {
+      "index": 5,
+      "x": 3628,
+      "y": 3038
+    },
+    {
+      "index": 6,
+      "x": 3695,
+      "y": 1290
+    },
+    {
+      "index": 7,
+      "x": 2821,
+      "y": 2265
+    },
+    {
+      "index": 8,
+      "x": 1297,
+      "y": 1947
+    },
+    {
+      "index": 9,
+      "x": 1054,
+      "y": 1925
+    },
+    {
+      "index": 10,
+      "x": 4138,
+      "y": 296
+    }
+  ],
+  "indexInfos": [
+    {
+      "index": 0,
+      "iterationToUnlock": 0
+    },
+    {
+      "index": 0,
+      "iterationToUnlock": 0
+    },
+    {
+      "index": 0,
+      "iterationToUnlock": 0
+    },
+    {
+      "index": 0,
+      "iterationToUnlock": 0
+    },
+    {
+      "index": 0,
+      "iterationToUnlock": 0
+    }
+  ]
+}
